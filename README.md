@@ -1,6 +1,8 @@
-# Nondeterministic Finite Automata
+# Automata Lab Assignments
 
-## Handwritten Output
-![Document](https://github.com/sspacheco/AutomataTheoryandFormalLanguage-Assignment-NFA/blob/main/Handwritten-NFA.jpg)
+## NFA C-style Comments
+![Document](https://github.com/sspacheco/CS13a-Lab-Assignments/blob/main/NFA/Handwritten-NFA.jpg)
 ## Program Output
-![Output](https://github.com/sspacheco/AutomataTheoryandFormalLanguage-Assignment-NFA/blob/main/Screenshot.jpg)
+![Output](https://github.com/sspacheco/CS13a-Lab-Assignments/blob/main/NFA/Screenshot.jpg)
+## Minimization of DFA
+![Document](https://github.com/sspacheco/CS13a-Lab-Assignments/blob/main/DFA/Minimization-DFA.jpg)
