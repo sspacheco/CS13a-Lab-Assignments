@@ -5,4 +5,4 @@
 ## Program Output
 ![Output](https://github.com/sspacheco/CS13a-Lab-Assignments/blob/main/NFA/Screenshot.jpg)
 ## Minimization of DFA
-![Document](https://github.com/sspacheco/CS13a-Lab-Assignments/blob/main/DFA/Minimization-DFA.jpg)
+![Document](https://github.com/sspacheco/CS13a-Lab-Assignments/blob/main/DFA%20Minimization/Minimization-DFA.jpg)
